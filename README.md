@@ -1,0 +1,1 @@
+Fast encryption (coming soon) and hash based on System.Security.Cryptography.
